@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="14" started-at="2019-02-06T07:32:16Z" finished-at="2019-02-06T07:32:16Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="14" started-at="2019-02-06T07:32:16Z" finished-at="2019-02-06T07:32:16Z">
+      <class name="stringproject.ConsecutiveLetterTest">
+        <test-method status="PASS" signature="inputWordString()[pri:0, instance:stringproject.ConsecutiveLetterTest@64c64813]" name="inputWordString" duration-ms="6" started-at="2019-02-06T13:02:16Z" finished-at="2019-02-06T13:02:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputWordString -->
+      </class> <!-- stringproject.ConsecutiveLetterTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
